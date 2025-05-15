@@ -43,7 +43,7 @@ export default function Home() {
             Welcome to HopNHook
           </h1>
           <p className="text-lg md:text-xl mb-4 tracking-wide text-[#2d3e1c]" style={{textShadow: '1px 1px 0 #d0d6b0'}}>
-            Your ultimate fishing companion
+            Hoppe Jr. and his fishing journey
           </p>
           <p className="max-w-2xl mx-auto mb-8 text-[#222] text-base md:text-lg bg-[#e9e7d1] border-2 border-black rounded-xl shadow p-4" style={{textShadow: '1px 1px 0 #fff'}}>
             HopNHook is a platforming fishing game where the player is a bunny who has to hop around to different ponds and catch fish. He wears his Dad's flannel that he got after his Dad was tragically taken by a fish. It's Hoppe Jr's goal to catch all the fish and try to find his dad.
