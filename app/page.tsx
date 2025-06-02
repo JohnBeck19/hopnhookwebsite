@@ -6,7 +6,7 @@ export default function Home() {
   const [currentSlide, setCurrentSlide] = useState(0);
   const slides = [
     {
-      image: '/images/hopnhook1.png',
+      image: '/images/hopnhook4.png',
       alt: 'Fishing scene 1'
     },
     {
@@ -14,8 +14,12 @@ export default function Home() {
       alt: 'Fishing scene 2'
     },
     {
-      image: '/images/hopnhook3.png',
+      image: '/images/hopnhook5.png',
       alt: 'Fishing scene 3'
+    },
+    {
+      image: '/images/hopnhook6.png',
+      alt: 'Fishing scene 4'
     }
   ];
 
