@@ -51,28 +51,6 @@ export default function Home() {
           </p>
         </div>
 
-        {/* Steam Trailer */}
-        <div className="max-w-4xl mx-auto mb-16">
-          <div
-            className="relative overflow-hidden border-2 border-black shadow-xl bg-[#a3c6c6] rounded-2xl"
-            style={{ aspectRatio: '16/9', maxWidth: '900px', margin: '0 auto' }}
-          >
-            <video
-              src="/trailer/HopNHookTrailerV2.mp4"
-              width="100%"
-              height="100%"
-              controls
-              poster="/images/hopnhook4.png"
-              className="w-full h-full object-cover rounded-2xl"
-              autoPlay
-              muted
-              loop
-            >
-              Sorry, your browser doesn't support embedded videos.
-            </video>
-          </div>
-        </div>
-
         <div className="text-center mb-16">
           <p className="max-w-2xl mx-auto text-[#222] text-base md:text-lg bg-[#e9e7d1] border-2 border-black rounded-xl shadow p-4" style={{textShadow: '1px 1px 0 #fff'}}>
             Hop n' Hook is a platforming-fishing game set across three distinct zones, built around movement, exploration, and collection. You play as Hoppe Jr., using a fishing rod that doubles as a grappling hook. Swing across gaps, scale cliffs, and cast into remote ponds to reel in over 50 unique fish. Some are simple. Others fight back—pulling you into short, reactive boss encounters that break the calm with bursts of tension.
