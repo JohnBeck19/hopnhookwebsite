@@ -13,7 +13,7 @@ export async function POST(req: NextRequest) {
     service: 'gmail',
     auth: {
       user: 'hopnhook@gmail.com', // replace with your Gmail address
-      pass: 'H0pnHookP@$sw0rd',  // replace with your Gmail App Password
+      pass: 'gdih pmdi efai npdt',  // replace with your Gmail App Password
     },
   });
 
